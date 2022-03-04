@@ -1,9 +1,9 @@
 # Cryptocurrencies
 Module 18
 ## Overview
-Accountability Accounting, is one of our most important customers and a prominent investment bank.  Martha, a senior manager for the company stated that Accountability Accounting is interested in offering a new cryptocurrency investment portfolio for its customers. The company, however, is lost in the vast universe of cryptocurrencies. So, they’ve asked you to create a report that includes what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for this new investment.
+Accountability Accounting is one of our most important customers and a prominent investment bank.  Martha, a senior manager for the company stated that Accountability Accounting is interested in offering a new cryptocurrency investment portfolio for its customers. The company, however, is lost in the vast universe of cryptocurrencies. So, they’ve asked you to create a report that includes what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for this new investment.
 
-THe data provided is not ideal and will need to be processed to fit the machine learning models. Since there is no known output for what Martha is looking for, we decided to use unsupervised learning. To group the cryptocurrencies, Martha decided on a clustering algorithm. We will provide visuals so that Martha can provide info to the board.
+The data provided is not ideal and will need to be processed to fit the machine learning models. Since there is no known output for what Martha is looking for, we decided to use unsupervised learning. To group the cryptocurrencies, Martha decided on a clustering algorithm. We will provide visuals so that Martha can provide info to the board.
 
 
 ## Purpose
@@ -50,7 +50,7 @@ The purpose of this project is to utilize lessons learned during this module to 
 
 ![del2PCAto3components](Images/del2PCAto3components.png)
 
-* After reducing dimension to three principal components a dataframe is createds.
+* After reducing dimension to three principal components a dataframe is created.
 
 ![Del2PC1PC2PC3DF](Images/Del2PC1PC2PC3DF.png)
 
@@ -88,3 +88,5 @@ The purpose of this project is to utilize lessons learned during this module to 
 ![del4scatter](Images/del4scatter.png)
 
 ## Analysis
+
+Interesting project with many preprocessing, disassembling and re-assembling of the data sets.
